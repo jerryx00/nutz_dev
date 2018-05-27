@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nutzbook_dev_prepare:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="nutzwk.war">
+      <element id="artifact" artifact-name="nutzbook_dev_prepare:war exploded" />
+    </root>
+  </artifact>
+</component>
