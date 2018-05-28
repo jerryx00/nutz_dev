@@ -84,21 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mail.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mail.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/custom/mail.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="57">
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="db.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/custom/db.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="95">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -181,8 +181,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/profile.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/custom/cron.properties" />
         <option value="$PROJECT_DIR$/src/main/java/net/wendal/nutzbook/quartz/job/CleanNonActiveUserJob.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/custom/db.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/custom/mail.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/custom/db.properties" />
       </list>
     </option>
   </component>
@@ -266,10 +266,10 @@
       </PATH>
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1" />
     <option name="width" value="1360" />
-    <option name="height" value="738" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -294,32 +294,6 @@
             <path>
               <item name="nutzbook_dev_prepare" type="b2602c69:ProjectViewProjectNode" />
               <item name="nutzbook_dev_prepare" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nutzbook_dev_prepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nutzbook_dev_prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nutzbook_dev_prepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nutzbook_dev_prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nutzbook_dev_prepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nutzbook_dev_prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nutzbook_dev_prepare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nutzbook_dev_prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -978,7 +952,7 @@
       <workItem from="1526393961378" duration="15549000" />
       <workItem from="1526650121099" duration="10113000" />
       <workItem from="1527379698248" duration="491000" />
-      <workItem from="1527465813804" duration="482000" />
+      <workItem from="1527465813804" duration="1737000" />
     </task>
     <servers />
   </component>
@@ -1015,7 +989,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59080000" />
+    <option name="totallyTimeSpent" value="60335000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1027,7 +1001,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1360" height="738" extended-state="0" />
+    <frame x="1" y="0" width="1360" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1349,7 +1323,7 @@
         <state relative-caret-position="1710">
           <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
           <folding>
-            <element signature="e#3523#3524#0" expanded="true" />
+            <element signature="e#3523#3524#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1427,18 +1401,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/custom/db.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/custom/mail.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="57">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/custom/mail.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/custom/db.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
