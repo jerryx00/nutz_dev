@@ -29,8 +29,6 @@ buildNumber.properties
 out/
 .idea/
 .settings/
-
-#忽略target目录
 target/  
   
 # BlueJ files  
