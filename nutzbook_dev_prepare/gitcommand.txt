@@ -1,0 +1,12 @@
+1.全部提交
+git add .
+git commit -m "init commit"
+git remote add origin https://github.com/jerrynj/python.git
+git pull origin master (可能会出错，可忽略)
+git push -u origin master
+
+2.放弃本地修改 强制更新
+git fetch --all
+git reset --hard origin/master
+
+git fetch 只是下载远程的库的内容，不做任何的合并 git reset 把HEAD指向刚刚下载的最新的版本
