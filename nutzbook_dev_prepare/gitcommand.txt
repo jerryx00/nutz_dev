@@ -10,3 +10,9 @@ git fetch --all
 git reset --hard origin/master
 
 git fetch 只是下载远程的库的内容，不做任何的合并 git reset 把HEAD指向刚刚下载的最新的版本
+
+3.删除多余的提交目录
+git rm -r --cached target  删除target文件夹
+git commit -m '删除了target'  提交,添加操作说明
+
+git push -u origin master 将本次更改更新到github项目上去

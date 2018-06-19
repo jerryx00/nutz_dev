@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+总共 ${obj.list.~size}
+<%
+for(user in obj.list){
+%>
+hello,${user.nickname};
+
+
+<%}%>
+
+当前页${obj.pager.pageNumber},总共${obj.pager.pageCount}页
+</body>
+</html>

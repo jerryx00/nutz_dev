@@ -13,9 +13,6 @@ import org.nutz.dao.entity.annotation.Table;
 @Table("t_user")
 public class User extends BasePojo {
 
-	@Id
-	protected int id;
-
 	public int getId() {
 		return id;
 	}
@@ -80,6 +77,8 @@ public class User extends BasePojo {
 		this.profile = profile;
 	}
 
+	@Id
+	protected int id;
 	@Name
 	@Column
 	protected String name;
