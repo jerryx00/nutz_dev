@@ -26,8 +26,9 @@ buildNumber.properties
   
 # About IntelliJ  
 *.iml  
-/.idea/  
-/out/
+out/
+.idea/
+.settings/
 
 #忽略target目录
 target/  
