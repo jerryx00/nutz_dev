@@ -25,7 +25,9 @@ buildNumber.properties
 *.log 
   
 # About IntelliJ  
-*.iml  
+*.iml 
+.classpath
+.project 
 out/
 .idea/
 .settings/
