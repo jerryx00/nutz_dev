@@ -13,7 +13,7 @@ import org.nutz.mvc.annotation.Ok;
 public class JetTemplateModule extends BaseModule {
 
     @At
-    @Ok("jetx:hello.jetx")
+//    @Ok("jetx:hello.jetx")
     public Object hello() {
         QueryResult qr = new QueryResult();
         Pager pager = dao.createPager(1, 20);
