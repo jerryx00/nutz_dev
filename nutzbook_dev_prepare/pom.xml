@@ -252,6 +252,11 @@
             <version>2.5.2</version>
         </dependency>
         <dependency>
+            <groupId>com.github.subchen</groupId>
+            <artifactId>jetbrick-template-nutz</artifactId>
+            <version>2.1.2</version>
+        </dependency>
+        <dependency>
             <groupId>commons-collections</groupId>
             <artifactId>commons-collections</artifactId>
             <version>3.2.1</version>
